@@ -28,4 +28,4 @@
 
 <h3>About the project</h3>
 
-libhsm is a Rust library for hierarchical state machines 
+libhsm is a state machine framework written in Rust
